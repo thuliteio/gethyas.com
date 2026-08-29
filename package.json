@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "@changesets/changelog-github": "^0.7.0",
-    "@changesets/cli": "^2.30.1",
+    "@changesets/cli": "^3.0.0",
     "pagefind": "^1.5.2",
     "prettier": "^3.9.5",
     "vite": "^8.1.4"
